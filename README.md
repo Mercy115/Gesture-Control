@@ -31,34 +31,63 @@ To prevent unintended changes, the system starts in a locked state and only acti
 
 ## Technologies and Libraries Used:
 OpenCV
+
+
 Camera input and frame processing
+
+
 MediaPipe
+
+
 Hand landmark detection
+
+
 NumPy
+
+
 Numerical calculations
+
+
 PyCaw
+
+
 System volume control
+
+
 Screen Brightness Control
+
+
 Display brightness adjustment
 
 ## Advantages:
 Touchless interaction
+
 Real-time response
+
 Simple and intuitive gestures
+
 Improved accessibility
+
 Modular and extendable design
 
 ## Limitations:
 Requires adequate lighting
+
 Performance depends on camera quality
+
 Brightness control may need administrator permission
+
 Primarily designed for Windows systems
 
 ## Future Enhancements:
 Add gestures such as mute and media controls
+
 Cross-platform support
+
 Gesture calibration for different users
+
 Improved low-light performance
+
 Integration with voice commands
 
 ## Conclusion:
