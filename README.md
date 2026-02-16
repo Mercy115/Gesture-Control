@@ -29,7 +29,7 @@ The system maps gestures based on the hand being used. The right hand controls s
 To prevent unintended changes, the system starts in a locked state and only activates after the unlock gesture is performed. Additionally, gestures must be maintained for a specific duration to reduce noise and avoid false detections, ensuring stable and reliable control.
 
 
-Technologies and Libraries Used:
+## Technologies and Libraries Used:
 OpenCV
 Camera input and frame processing
 MediaPipe
@@ -41,25 +41,25 @@ System volume control
 Screen Brightness Control
 Display brightness adjustment
 
-Advantages:
+## Advantages:
 Touchless interaction
 Real-time response
 Simple and intuitive gestures
 Improved accessibility
 Modular and extendable design
 
-Limitations:
+## Limitations:
 Requires adequate lighting
 Performance depends on camera quality
 Brightness control may need administrator permission
 Primarily designed for Windows systems
 
-Future Enhancements:
+## Future Enhancements:
 Add gestures such as mute and media controls
 Cross-platform support
 Gesture calibration for different users
 Improved low-light performance
 Integration with voice commands
 
-Conclusion:
+## Conclusion:
 This project demonstrates how hand gestures can function as a natural and intuitive interface for controlling system features. By combining real-time hand tracking with operating-system level controls, it showcases a practical implementation of computer vision and human–computer interaction concepts.
